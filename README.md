@@ -1,7 +1,7 @@
 # Health & Diet Analyzer for Hostel Students (Java)
 
-**Student:** LOKESH YADAV
-**Reg:** 24BSA10107
+**Student:** Prateek Kumar Kuntal
+**Reg:** 24BAI10860
 
 This is a Java console application skeleton for the course project "Health & Diet Analyzer for Hostel Students".
 
